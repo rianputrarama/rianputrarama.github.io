@@ -19,7 +19,7 @@ const experiences = [
   },
   {
     id: 3,
-    date: '2018 – 2020',
+    date: '2018 – 2019',
     role: 'Web Developer',
     company: 'PT Medianet support Telkomsel - Jakarta',
     desc: 'Development of web apps, dashboards, and APIs — starting with Javascript, PHP, and exploring Java. Built dashboard monitoring for internal use and client reporting tools.',
