@@ -6,7 +6,7 @@ const contacts = [
     id: 1,
     icon: '✉️',
     label: 'Email',
-    value: 'rianpr20@email.com',
+    value: 'myemail@email.com',
     href: 'mailto:rianpr20@email.com',
     desc: 'Balas dalam 1x24 jam',
   },
@@ -23,7 +23,7 @@ const contacts = [
     icon: '💼',
     label: 'LinkedIn',
     value: 'Febriansyah Putra Ramadhan',
-    href: 'https://linkedin.com/in/rianputrarama',
+    href: 'https://www.linkedin.com/in/febriansyah-putra-ramadhan/',
     desc: 'Connect & lihat pengalaman gue',
   },
   {
