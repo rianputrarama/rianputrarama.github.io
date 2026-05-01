@@ -23,7 +23,7 @@ function App() {
         <p>© 2026 Febriansyah Putra Ramadhan. Built with ❤️ in Jakarta.</p>
         <div className="social-links">
           <a href="https://github.com/rianputrarama" target="_blank" rel="noreferrer">GitHub</a>
-          <a href="https://linkedin.com/in/febriansyah-putra-ramadhan" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/febriansyah-putra-ramadhan/" target="_blank" rel="noreferrer">LinkedIn</a>
         </div>
       </footer>
     </div>
